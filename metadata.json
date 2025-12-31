@@ -1,0 +1,8 @@
+{
+  "name": "Money Booker (মানি ব্কার)",
+  "description": "A comprehensive gaming tournament and AI services application with wallet management, earnings tracking, and personalized AI zones.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
